@@ -15,7 +15,8 @@
 | Overview Analysis | Transactions Drillthrough |
 |:---:|:---:|
 | Overview <img width="1300" height="689" alt="image" src="https://github.com/user-attachments/assets/7d1abbca-4150-461d-8584-9c2575f8efa6" />
-| ![Transactions](<img width="645" height="340" alt="image" src="https://github.com/user-attachments/assets/1f634872-b8ab-40f5-85a7-3f910b27e8c5" />
+| ![Transactions]
+(<img width="645" height="340" alt="image" src="https://github.com/user-attachments/assets/1f634872-b8ab-40f5-85a7-3f910b27e8c5" />
  |
 | KPIs · Monthly trend · Geo breakdown · Type table | Row-level transaction detail · Sortable columns |
 
